@@ -30,6 +30,9 @@ body{
     gap:24px;
 
 }
+.image-container{
+    overflow: hidden;
+}
 .hero-text{
     font-size: 48px;
     font-weight: 900;
@@ -91,6 +94,7 @@ button{
 }
 .card{
     display: flex;
+    padding: 12px;
 }
 .quote-container{
     display: flex;
